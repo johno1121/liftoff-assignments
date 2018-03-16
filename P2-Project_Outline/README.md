@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is going to be a website that extends the features of a video game called Ark Survival Evolved. In the game you can take different species of dinosaurs and breed them together to produce different stats. My website will be able to track and organize all the different species and their stats and make it more efficient and easier to find the best stats and use them to breed better creatures.
+
 ### Features
-Include Features here
+Some of the features my website will use are:
+-user login
+-a search bar
+-able to create new posts
+-a scroll wheel
+
 ### Technologies
-Include Technologies here
+Java
+mysql
+flask
+sqlalchemy
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I am not sure what kind of problems this project will bring, but I am sure I’m going to have to learn a lot for this project to be completed. I know I will have to refresh my knowledge on some of the languages and tools that will help my project get completed. I am really excited to finish this project.
