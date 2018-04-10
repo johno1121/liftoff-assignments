@@ -7,10 +7,9 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/johno1121/arkBreedApp.git
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+www.linkedin.com/in/john-oconnor-029036161
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
